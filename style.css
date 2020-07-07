@@ -1,0 +1,72 @@
+.container{
+margin-bottom: 80px;
+}
+
+.diff-bg-car{
+     background-image: linear-gradient( to right, lightcoral 0%,   #fceae8);     
+     border-radius: 10px;
+}
+.buy-now-button{
+    background-image: linear-gradient( to right, orange 0%, orange);
+    color: seashell;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.price-color{
+    color: floralwhite;
+
+}
+.price-colory{
+    color: orange;
+}
+.para{
+    color: dimgrey;
+
+}
+.carousel-item{ 
+    padding: 20px 40px;
+
+}
+
+.cat-1,.cat-2, .cat-3{
+    padding: 10px 30px;
+    color: seashell;
+    border-radius:15px;
+}
+.cat-1{
+    background-image: linear-gradient( to right, darkorange 0% , orange);
+    
+}
+.cat-2{
+   
+    background-image: linear-gradient(to right,tomato 0%, lightpink);
+
+}
+.cat-3{
+     background-image: linear-gradient(to right, blue 0%, lightblue);
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightblue;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.contact{
+    height: 300px;
+    background-image: linear-gradient( to right, lightcoral 0%,   #fceae8);     
+     border-radius: 10px;
+}
+footer{
+    color: dimgray;
+    text-align: center;
+    font-weight: 10000;
+}
